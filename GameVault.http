@@ -1,0 +1,6 @@
+@GameVault_HostAddress = http://localhost:5182
+
+GET {{GameVault_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
